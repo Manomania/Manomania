@@ -4,34 +4,36 @@
 
 
 <!--START_SECTION:waka-->
-![WakaTime](https://wakatime.com/badge/user/<votre_id>.svg)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/000000/welcome-banner.png" alt="Banner"/>
-</p>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.6%20thousand%20lines%20of%20code-blue)
 
----
+**I'm an Early 🐤** 
 
-### 📊 WakaTime Stats
-**Code Time**: `804 hrs 46 mins`  
-**Lines of Code**: `2.1 million`
+```text
+🌞 Morning                32 commits          █████████░░░░░░░░░░░░░░░░   34.04 % 
+🌆 Daytime                42 commits          ███████████░░░░░░░░░░░░░░   44.68 % 
+🌃 Evening                20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
 
----
 
-### ✏️ Editors Used:
-| **Editor**    | **Time**   | **Percentage** |
-|---------------|------------|----------------|
-| CLion         | 5 hrs 31m  | 49.89%         |
-| Cursor        | 5 hrs 29m  | 49.72%         |
-| ...           | ...        | ...            |
+📊 **This Week I Spent My Time On** 
 
-### 🐱 Projects Worked On:
-| **Project**       | **Time**   | **Percentage** |
-|-------------------|------------|----------------|
-| ft               | 7 hrs 8m   | 64.57%         |
-| portfolio3       | 1 hr 53m   | 17.04%         |
-| ...              | ...        | ...            |
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
 
----
+🔥 Editors: 
+No Activity Tracked This Week
 
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 13/12/2024 12:33:59 UTC
 <!--END_SECTION:waka-->
