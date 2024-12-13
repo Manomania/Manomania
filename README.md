@@ -3,10 +3,8 @@
 </p>
 
 
+<!--START_SECTION:waka-->
 ![WakaTime](https://wakatime.com/badge/user/<votre_id>.svg)
-
-
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/000000/welcome-banner.png" alt="Banner"/>
@@ -35,3 +33,5 @@
 | ...              | ...        | ...            |
 
 ---
+
+<!--END_SECTION:waka-->
