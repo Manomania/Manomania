@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1376-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20view-1376-blue)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
