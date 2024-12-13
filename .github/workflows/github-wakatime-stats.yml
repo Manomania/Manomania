@@ -20,7 +20,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_UPDATED_DATE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
