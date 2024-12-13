@@ -4,6 +4,9 @@
 
 
 <!--START_SECTION:waka-->
+
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1376-blue)
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.6%20thousand%20lines%20of%20code-blue)
