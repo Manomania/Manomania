@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20view-1376-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=manomania&style=flat-square&color=blue)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
