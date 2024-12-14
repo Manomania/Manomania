@@ -2,8 +2,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/maximart?1337Badge=off&UM6P=off" alt="maximart's 42 stats" /></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=manomania&style=flat-square&color=blue)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
