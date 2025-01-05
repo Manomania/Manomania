@@ -42,3 +42,10 @@ Linux                    19 hrs 58 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
+<p align="center">
+<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/libftm.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_printfm.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/born2beroote.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minitalkm.png" alt="Badge for the finished project" /></a>
+</p>
