@@ -30,13 +30,6 @@ Other                    4 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 CLion                    17 hrs 52 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-push_swap                11 hrs 33 mins      ████████████████░░░░░░░░░   64.71 % 
-FdF                      4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-Tests                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-minitalk                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-gggg                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-
 💻 Operating System: 
 Linux                    17 hrs 52 mins      █████████████████████████   100.00 % 
 ```
@@ -49,4 +42,5 @@ Linux                    17 hrs 52 mins      ███████████�
 <a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="Badge for the finished project" /></a>
 <a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/born2beroote.png" alt="Badge for the finished project" /></a>
 <a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minitalkm.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/push_swapm.png" alt="Badge for the finished project" /></a>
 </p>
