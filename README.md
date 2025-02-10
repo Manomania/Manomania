@@ -35,11 +35,11 @@ Linux                    7 hrs 18 mins       ███████████�
 
 <!--END_SECTION:waka-->
 <p align="center">
-<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/libftm.png" alt="Badge for the finished project" /></a>
-<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_printfm.png" alt="Badge for the finished project" /></a>
-<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="Badge for the finished project" /></a>
-<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/born2beroote.png" alt="Badge for the finished project" /></a>
-<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minitalkm.png" alt="Badge for the finished project" /></a>
-<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/push_swapm.png" alt="Badge for the finished project" /></a>
-<a href="https://github.com/ayogun/42-project-badges?tab=readme-ov-file"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/so_longm.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/Manomania/libft"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/libftm.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/Manomania/ft_printf"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_printfm.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/Manomania/Get_next_line"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/Manomania/Born2beroot"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/born2beroote.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/Manomania/minitalk"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minitalkm.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/Manomania/push_swap"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/push_swapm.png" alt="Badge for the finished project" /></a>
+<a href="https://github.com/Manomania/so_long"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/so_longm.png" alt="Badge for the finished project" /></a>
 </p>
