@@ -48,3 +48,6 @@ Linux                    6 hrs 41 mins       ███████████�
 <a href="https://github.com/Manomania/push_swap"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/push_swapm.png" alt="Badge for the finished project" /></a>
 <a href="https://github.com/Manomania/so_long"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/so_longm.png" alt="Badge for the finished project" /></a>
 </p>
+<p align="center">
+<a href="https://github.com/Manomania/so_long"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/philosopherse.png" alt="Badge for the finished project" /></a>
+</p>
