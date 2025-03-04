@@ -1,6 +1,5 @@
-
 <p align="center">
-<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/maximart?1337Badge=off&UM6P=off&42Network=off" alt="maximart's 42 stats" /></a> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F718C9&center=true&vCenter=true&width=435&lines=Hi+!+I'm+maximart" alt="Typing SVG" /></a>
 </p>
 
 <!--START_SECTION:waka-->
