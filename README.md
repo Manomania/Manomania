@@ -50,7 +50,7 @@ Linux                    9 hrs 29 mins       ███████████�
   </tr>
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/Manomania/philosopher"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/philosopherse.png" alt="Badge for the finished project" /></a></td>
-    <td colspan="3" align="center"><a href="/milestone-3-minishell/README.md"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/minishelle.png" alt="minishell logo"></a></td>
+    <td colspan="3" align="center"><a href="https://github.com/Manomania/minishell"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/minishelle.png" alt="minishell logo"></a></td>
   </tr>
   <tr>
     <td colspan="3" align="center"></td>
