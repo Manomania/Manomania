@@ -102,6 +102,8 @@ Linux                    13 hrs 23 mins      ███████████�
       <a href="https://github.com/Manomania/Cub3D">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3de.png" alt="Badge for the finished project">
       </a>
+      <br>
+      <sub>with<a href="https://github.com/airone01/"> @elagouch </a></sub>
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/CPP">
