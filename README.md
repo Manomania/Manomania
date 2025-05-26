@@ -3,7 +3,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2058%20mins-blue)
 
 **I'm an Early 🐤** 
 
