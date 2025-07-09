@@ -101,7 +101,7 @@ Windows                  3 mins              ░░░░░░░░░░░�
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/Cub3D">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3de.png" alt="Badge for the finished project">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3dm.png" alt="Badge for the finished project">
       </a>
       <br>
       <sub>with<a href="https://github.com/airone01/"> @elagouch </a></sub>
