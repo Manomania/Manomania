@@ -110,6 +110,8 @@ Windows                  3 hrs 29 mins       ████████░░░�
       <a href="https://github.com/Manomania/CPP">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppe.png" alt="Badge for the finished projec">
       </a>
+      <br>
+      <sub>from 01 to 04</sub>
     </td>
   </tr>
 </table>
