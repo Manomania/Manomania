@@ -119,7 +119,7 @@ Linux                    1 hr 23 mins        ███████████�
       </a>
     </td>
     <td colspan="2" align="center">
-      <a href="https://github.com/Manomania/irc">
+      <a href="https://github.com/Manomania/ft_irc">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_irce.png" alt="Badge for the finished project">
       </a>
       <br>
