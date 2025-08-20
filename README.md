@@ -111,4 +111,30 @@ Linux                    1 hr 23 mins        ███████████�
       <sub>from 01 to 04</sub>
     </td>
   </tr>
+    </tr>
+    <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Manomania/inception">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptione.png" alt="Badge for the finished project"/>
+      </a>
+    </td>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Manomania/irc">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_irce.png" alt="Badge for the finished project">
+      </a>
+      <br>
+      <sub>ft.<a href="https://github.com/airone01/"> @elagouch </a></sub>
+      <br>
+      <sub>&</sub>
+      <br>
+      <sub>ft.<a href="https://github.com/nahamida/"> @nahamida </a></sub>
+    </td>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Manomania/CPP_04-05">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppe.png" alt="Badge for the finished projec">
+      </a>
+      <br>
+      <sub>from 04 to 09</sub>
+    </td>
+  </tr>
 </table>
