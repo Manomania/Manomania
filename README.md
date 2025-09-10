@@ -95,7 +95,7 @@ Windows                  26 mins             ███░░░░░░░░�
         <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/minishelle.png" alt="Badge for the finished project">
       </a>
       <br>
-      <sub>with<a href="https://github.com/airone01/"> @elagouch </a></sub>
+      <sub>ft.<a href="https://github.com/airone01/"> @elagouch </a></sub>
     </td>
   </tr>
     <tr>
@@ -109,7 +109,7 @@ Windows                  26 mins             ███░░░░░░░░�
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3dm.png" alt="Badge for the finished project">
       </a>
       <br>
-      <sub>with<a href="https://github.com/airone01/"> @elagouch </a></sub>
+      <sub>ft.<a href="https://github.com/airone01/"> @elagouch </a></sub>
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/CPP">
@@ -142,7 +142,7 @@ Windows                  26 mins             ███░░░░░░░░�
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppe.png" alt="Badge for the finished projec">
       </a>
       <br>
-      <sub>from 04 to 09</sub>
+      <sub>from 05 to 09</sub>
     </td>
   </tr>
 </table>
