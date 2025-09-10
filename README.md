@@ -40,6 +40,11 @@ Windows                  26 mins             ███░░░░░░░░�
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=40>
   </a>
 </p>
+<p align="center">
+  <a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
+    <img src="https://www.codingame.com/certification/oNoFCovFlQdBSpo6C4idMA" height=40>
+  </a>
+</p>
 <table align="center" border="0">
   <tr>
     <td colspan="6" align="center">
