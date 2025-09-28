@@ -14,6 +14,12 @@
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
+<p align=center>
+    <a href="https://www.linkedin.com/in/maxime-martinez-643300254/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=100>
+    </a>
+<p>
+</table>
 <table align=center border=0>
   <tr>
     <td colspan=6 align=center>
