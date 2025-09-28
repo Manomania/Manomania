@@ -26,7 +26,7 @@
     <td>
       <p align="center">
         <a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
-        <img src="https://github.com/Manomania/Manomania/blob/master/Certification%20in%20C.jpg" height=300>
+        <img src="https://github.com/Manomania/Manomania/blob/master/Certification%20rapidit%C3%A9%20de%20d%C3%A9veloppement.jpg" height=300>
         </a>
       </p>
     </td>
