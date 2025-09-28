@@ -14,16 +14,24 @@
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
-<p align="center">
-  <a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
-    <img src="https://github.com/Manomania/Manomania/blob/master/Certification%20in%20C.jpg" height=300>
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/maxime-martinez-643300254/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=40>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
+        <img src="https://github.com/Manomania/Manomania/blob/master/Certification%20in%20C.jpg" height=300>
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
+        <img src="https://github.com/Manomania/Manomania/blob/master/Certification%20in%20C.jpg" height=300>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 <table align="center" border="0">
   <tr>
     <td colspan="6" align="center">
