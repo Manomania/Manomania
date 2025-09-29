@@ -3,7 +3,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-
+[![wakatime](https://wakatime.com/badge/user/e820fd05-3867-4694-a4e3-21143dbc78de.svg)](https://wakatime.com/@e820fd05-3867-4694-a4e3-21143dbc78de)
 <!--END_SECTION:waka-->
 <p align=center>
     <a href="https://www.linkedin.com/in/maxime-martinez-643300254/">
