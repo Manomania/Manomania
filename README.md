@@ -3,10 +3,19 @@
 </p>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                207 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌆 Daytime                327 commits         ████████████░░░░░░░░░░░░░   46.12 % 
+🌃 Evening                175 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
 <p align="center">
     <img src="https://wakatime.com/badge/user/e820fd05-3867-4694-a4e3-21143dbc78de.svg?style=for-the-badge" alt="Typing SVG" />
 </p>
 <!--END_SECTION:waka-->
+
 <p align=center>
     <a href="https://www.linkedin.com/in/maxime-martinez-643300254/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=100>
