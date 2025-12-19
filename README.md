@@ -15,9 +15,7 @@
 [![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=black)](https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935)
 [![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/)
 
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ##  About Me
 
@@ -40,7 +38,7 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ##  Tech Stack
 
@@ -68,7 +66,7 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ##  GitHub Stats
 
@@ -81,7 +79,7 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manomania&bg_color=0d1117&color=C44569&line=6C5CE7&point=FF6B9D&area=true&area_color=6C5CE7&hide_border=true"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## ⏱️ Weekly Coding Stats
 
@@ -97,7 +95,7 @@ Bash          3 mins          ░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ##  42 Cursus
 
@@ -212,7 +210,7 @@ Bash          3 mins          ░░░░░░░░░░░░░░░░�
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
