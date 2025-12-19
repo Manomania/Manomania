@@ -41,7 +41,6 @@ Windows                  1 hr 43 mins        ██░░░░░░░░░�
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=100>
     </a>
 <p>
-</table>
 <table align=center border=0>
   <tr>
     <td colspan=6 align=center>
@@ -55,6 +54,7 @@ Windows                  1 hr 43 mins        ██░░░░░░░░░�
       </p>
     </td>
   </tr>
+    <tr>
     <td colspan="6" align="center">
       <a href="https://github.com/Manomania/libft">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/libftm.png" alt="Badge for the finished project" />
@@ -75,7 +75,7 @@ Windows                  1 hr 43 mins        ██░░░░░░░░░�
       </a>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/minitalk">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minitalkm.png" alt="Badge for the finished project"/>
@@ -92,7 +92,7 @@ Windows                  1 hr 43 mins        ██░░░░░░░░░�
       </a>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td colspan="3" align="center">
       <a href="https://github.com/Manomania/philosopher">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/philosopherse.png" alt="Badge for the finished project"/>
@@ -111,6 +111,8 @@ Windows                  1 hr 43 mins        ██░░░░░░░░░�
       <a href="https://github.com/Manomania/NetPractice">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/netpracticee.png" alt="Badge for the finished project"/>
       </a>
+      <br>
+      <br>
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/Cub3D">
@@ -121,18 +123,19 @@ Windows                  1 hr 43 mins        ██░░░░░░░░░�
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/CPP">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppe.png" alt="Badge for the finished projec">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppm.png" alt="Badge for the finished projec">
       </a>
       <br>
       <sub>from 01 to 04</sub>
     </td>
   </tr>
-    </tr>
+</tr>
     <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/inception">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptione.png" alt="Badge for the finished project"/>
       </a>
+      <br>
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/ft_irc">
@@ -147,10 +150,17 @@ Windows                  1 hr 43 mins        ██░░░░░░░░░�
     </td>
     <td colspan="2" align="center">
       <a href="https://github.com/Manomania/CPP_05-09">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppe.png" alt="Badge for the finished projec">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppm.png" alt="Badge for the finished projec">
       </a>
       <br>
       <sub>from 05 to 09</sub>
+    </td>
+  </tr>
+    <tr>
+    <td colspan="6" align="center">
+      <a href="https://github.com/Manomania/transcendance">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencem.png" alt="Badge for the finished project"/>
+      </a>
     </td>
   </tr>
 </table>
