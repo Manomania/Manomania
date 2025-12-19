@@ -72,10 +72,10 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ##  GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manomania&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=C44569&text_color=ffffff&icon_color=6C5CE7&ring_color=C44569"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manomania&theme=dracula&hide_border=true&background=0d1117&stroke=C44569&ring=C44569&fire=FF6B9D&currStreakLabel=C44569"/>
-</div> -->
+  <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Manomania&theme=dracula&hide_border=true&background=0d1117&stroke=C44569&ring=C44569&fire=FF6B9D&currStreakLabel=C44569"/> -->
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manomania&bg_color=0d1117&color=C44569&line=6C5CE7&point=FF6B9D&area=true&area_color=6C5CE7&hide_border=true"/>
