@@ -84,6 +84,31 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%2017%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                324 commits         ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+🌆 Daytime                489 commits         ███████████░░░░░░░░░░░░░░   44.90 % 
+🌃 Evening                274 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
