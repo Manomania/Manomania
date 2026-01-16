@@ -203,7 +203,7 @@ Windows                  0 secs              ░░░░░░░░░░░�
       </a><br/><br/>
       <br/><sub>Modules 05-09</sub>
     <td align="center">
-      <a href="https://github.com/Manomania/transcendance">
+      <a href="https://github.com/Manomania/ft_transcendance">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencem.png" alt="ft_transcendence" width="100"/>
       </a>
         <br/><br/><br/><br/>
