@@ -207,7 +207,7 @@ Windows                  47 mins             ███░░░░░░░░�
       <a href="https://github.com/Manomania/ft_transcendance">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencem.png" alt="ft_transcendence" width="100"/>
       </a>
-        <br/><br/><br/><br/>
+         <br/><sub>with <a href="https://github.com/Sunny-444/">@nahamida</a><br><a href="https://github.com/faoriol/">@faoriol</a>, <a href="https://github.com/Mazakov-d/">@dmazari</a><br>& <a href="https://github.com/POLEC4T/">@mniemaz</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Manomania/ft_irc">
