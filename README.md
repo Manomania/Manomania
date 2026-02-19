@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44569,100:6C5CE7&height=200&section=header&text=Maxime%20Martinez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=42%20Lyon%20Student%20|%20Software%20Developer&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44569,100:6C5CE7&height=200&section=header&text=Maxime%20Martinez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=42%20Lyon%20Student&descSize=18&descAlignY=55"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C44569&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+about+low-level+programming;Building+robust+systems+in+C%2FC%2B%2B;Always+learning%2C+always+coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C44569&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+about+DevOps+%26+Automation;Containerizing+the+world+with+Docker;Monitoring%2C+scaling+%26+always+deploying" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,18 +23,17 @@
 name: Maxime Martinez
 location: Lyon, France
 education: 42 Lyon
-current_focus: ["IRC Server Implementation", "Final project: Transcendance"]
+current_focus: ["Final project: Transcendance"]
 interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimization]
 ```
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manomania&layout=donut&theme=dracula&hide_border=true&bg_color=0d1117&title_color=C44569&text_color=ffffff&icon_color=6C5CE7"/>
-
 ###  What drives me
 
--  Building **efficient, clean** and **well-documented** code
+-  Building **reliable, automated** and **scalable** infrastructure
 -  Deep understanding over quick solutions
--  Exploring **physics simulations** and **game development**
--  **Competitive programming** challenges on CodinGame
+-  Exploring **containerization** and **microservices architecture**
+-  Learning **Kubernetes** & orchestration from the ground up
+-  **Monitoring & observability** with Prometheus, Grafana & ELK
 
 <br clear="right"/>
 
@@ -48,12 +47,18 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Certifications
 <a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
