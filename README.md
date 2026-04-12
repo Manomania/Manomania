@@ -81,10 +81,10 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                546 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-🌆 Daytime                2473 commits        ████████████░░░░░░░░░░░░░   46.16 % 
-🌃 Evening                2319 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
-🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+🌞 Morning                510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+🌆 Daytime                2183 commits        ████████████░░░░░░░░░░░░░   46.43 % 
+🌃 Evening                1989 commits        ███████████░░░░░░░░░░░░░░   42.30 % 
+🌙 Night                  20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 
 
@@ -92,19 +92,19 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Bash                     6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.98 % 
-TypeScript               4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-Shell Script             2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Text                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Bash                     5 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.42 % 
+TypeScript               3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+Shell Script             2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Text                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-IntelliJ IDEA            10 hrs 59 mins      ██████████████████░░░░░░░   73.89 % 
-CLion                    3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+IntelliJ IDEA            10 hrs 59 mins      █████████████████████░░░░   83.13 % 
+CLion                    2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 
 💻 Operating System: 
-Linux                    10 hrs 59 mins      ██████████████████░░░░░░░   73.89 % 
-Windows                  3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+Linux                    10 hrs 59 mins      █████████████████████░░░░   83.13 % 
+Windows                  2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
 ```
 
 
