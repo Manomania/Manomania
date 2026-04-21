@@ -33,7 +33,7 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 -  Deep understanding over quick solutions
 -  Exploring **containerization** and **microservices architecture**
 -  Learning **Kubernetes** & orchestration from the ground up
--  **Monitoring & observability** with Prometheus, Grafana & ELK
+-  **Monitoring & observability** with Prometheus, Grafana & learning ELK
 
 <br clear="right"/>
 
