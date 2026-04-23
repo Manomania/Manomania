@@ -82,14 +82,14 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2027%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                375 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-🌆 Daytime                921 commits         ████████████░░░░░░░░░░░░░   47.52 % 
-🌃 Evening                628 commits         ████████░░░░░░░░░░░░░░░░░   32.40 % 
+🌞 Morning                375 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+🌆 Daytime                922 commits         ████████████░░░░░░░░░░░░░   47.53 % 
+🌃 Evening                629 commits         ████████░░░░░░░░░░░░░░░░░   32.42 % 
 🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
@@ -98,19 +98,19 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 52 mins        ████████████░░░░░░░░░░░░░   47.89 % 
-Bash                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-TypeScript               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Shell Script             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Makefile                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Bash                     33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+YAML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+C                        17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 44 mins       ████████████████████████░   95.50 % 
-CLion                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+IntelliJ IDEA            1 hr 48 mins        █████████████░░░░░░░░░░░░   50.79 % 
+CLion                    1 hr 44 mins        ████████████░░░░░░░░░░░░░   49.21 % 
 
 💻 Operating System: 
-Linux                    3 hrs 44 mins       ████████████████████████░   95.50 % 
-Windows                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Linux                    1 hr 48 mins        █████████████░░░░░░░░░░░░   50.79 % 
+Windows                  1 hr 44 mins        ████████████░░░░░░░░░░░░░   49.21 % 
 ```
 
 
