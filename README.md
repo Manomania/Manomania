@@ -82,7 +82,7 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2047%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -98,19 +98,19 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Makefile                 51 mins             ██████████░░░░░░░░░░░░░░░   40.41 % 
-Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-C                        17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-C/C                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Makefile                 51 mins             █████████░░░░░░░░░░░░░░░░   37.34 % 
+C                        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Bash                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+C/C                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-CLion                    1 hr 44 mins        █████████████████████░░░░   82.47 % 
-IntelliJ IDEA            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+CLion                    1 hr 44 mins        ███████████████████░░░░░░   76.20 % 
+IntelliJ IDEA            32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
 
 💻 Operating System: 
-Windows                  1 hr 44 mins        █████████████████████░░░░   82.47 % 
-Linux                    22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Windows                  1 hr 44 mins        ███████████████████░░░░░░   76.20 % 
+Linux                    32 mins             ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
 ```
 
 
