@@ -98,18 +98,18 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-C                        34 mins             ███████████████░░░░░░░░░░   61.91 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-ThinClientFileType       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+C                        34 mins             ███████████████████░░░░░░   75.02 % 
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+ThinClientFileType       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Makefile                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            42 mins             ███████████████████░░░░░░   75.52 % 
-CLion                    13 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+IntelliJ IDEA            32 mins             ██████████████████░░░░░░░   70.34 % 
+CLion                    13 mins             ███████░░░░░░░░░░░░░░░░░░   29.66 % 
 
 💻 Operating System: 
-Linux                    56 mins             █████████████████████████   100.00 % 
+Linux                    46 mins             █████████████████████████   100.00 % 
 ```
 
 
