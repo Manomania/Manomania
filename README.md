@@ -82,14 +82,14 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2047%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                376 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-🌆 Daytime                942 commits         ████████████░░░░░░░░░░░░░   48.01 % 
-🌃 Evening                630 commits         ████████░░░░░░░░░░░░░░░░░   32.11 % 
+🌞 Morning                376 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+🌆 Daytime                943 commits         ████████████░░░░░░░░░░░░░   47.99 % 
+🌃 Evening                632 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
 🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
@@ -98,19 +98,18 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-C                        3 hrs 22 mins       ████████████████░░░░░░░░░   63.40 % 
-C/C++                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Makefile                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-JSON5                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+C                        3 hrs 28 mins       ████████████████░░░░░░░░░   64.52 % 
+C/C++                    47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Makefile                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JSON5                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-CLion                    4 hrs 57 mins       ███████████████████████░░   93.03 % 
-IntelliJ IDEA            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+CLion                    5 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 13 mins       ████████████████████░░░░░   79.14 % 
-Windows                  1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Linux                    3 hrs 37 mins       █████████████████░░░░░░░░   67.28 % 
+Windows                  1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   32.72 % 
 ```
 
 
