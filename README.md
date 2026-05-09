@@ -82,14 +82,12 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-749%20hrs%2034%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                376 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-🌆 Daytime                943 commits         ████████████░░░░░░░░░░░░░   47.92 % 
-🌃 Evening                635 commits         ████████░░░░░░░░░░░░░░░░░   32.27 % 
+🌞 Morning                376 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌆 Daytime                944 commits         ████████████░░░░░░░░░░░░░   47.89 % 
+🌃 Evening                637 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
 🌙 Night                  14 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 
@@ -98,18 +96,18 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-C                        5 hrs 59 mins       ███████████████░░░░░░░░░░   58.93 % 
+C                        5 hrs 59 mins       ███████████████░░░░░░░░░░   58.92 % 
 C/C++                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
 Makefile                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 C/C                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 🔥 Editors: 
 CLion                    10 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 32 mins       ████████████████░░░░░░░░░   64.30 % 
-Linux                    3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
+Windows                  6 hrs 32 mins       ████████████████░░░░░░░░░   64.29 % 
+Linux                    3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.71 % 
 ```
 
 
