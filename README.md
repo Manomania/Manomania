@@ -98,18 +98,18 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-C                        5 hrs 59 mins       ███████████████░░░░░░░░░░   58.92 % 
-C/C++                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Makefile                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-C/C                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+C                        5 hrs 56 mins       ███████████████░░░░░░░░░░   60.34 % 
+C/C++                    2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Makefile                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+C/C                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-CLion                    10 hrs 10 mins      █████████████████████████   100.00 % 
+CLion                    9 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 32 mins       ████████████████░░░░░░░░░   64.29 % 
-Linux                    3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.71 % 
+Windows                  6 hrs 13 mins       ████████████████░░░░░░░░░   63.14 % 
+Linux                    3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
 ```
 
 
