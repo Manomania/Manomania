@@ -117,54 +117,9 @@ Linux                    5 mins              █░░░░░░░░░░�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-##  42 Cursus
+##  42 Cursus - Advanced Projects & PostCC
 
 <div align="center">
-
-### Foundation
-
-<a href="https://github.com/Manomania/libft">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/libftm.png" alt="Libft" width="100"/>
-</a>
-
-### Core Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Manomania/ft_printf">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_printfm.png" alt="ft_printf" width="90"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/Get_next_line">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/get_next_linem.png" alt="get_next_line" width="90"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/Born2beroot">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/born2beroote.png" alt="Born2beroot" width="90"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Manomania/minitalk">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minitalkm.png" alt="minitalk" width="90"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/push_swap">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/push_swapm.png" alt="push_swap" width="90"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/so_long">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/so_longm.png" alt="so_long" width="90"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ### Advanced Projects
 
@@ -228,6 +183,25 @@ Linux                    5 mins              █░░░░░░░░░░�
     </td>
   </tr>
 </table>
+
+### Post CC
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Manomania/ft_ping">
+        <img src="ft_ping" alt="ft_ping" width="100"/>
+      </a>
+      <br/><sub>WORKING ON</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Manomania/ft_traceroute">
+        <img src="ft_traceroute" alt="ft_traceroute" width="100"/>
+      </a>
+      <br/><sub>WORKING ON</sub>
+  </tr>
+</table>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
