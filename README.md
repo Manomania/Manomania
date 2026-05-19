@@ -82,6 +82,36 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%202%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+🌆 Daytime                954 commits         ████████████░░░░░░░░░░░░░   47.56 % 
+🌃 Evening                652 commits         ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C                        1 hr 36 mins        ████████████░░░░░░░░░░░░░   46.56 % 
+C/C++                    1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.78 % 
+Makefile                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+C/C                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+
+🔥 Editors: 
+CLion                    3 hrs 26 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 hrs 3 mins        ██████████████████████░░░   88.82 % 
+Linux                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+```
+
 
 <!--END_SECTION:waka-->
 
