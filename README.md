@@ -82,8 +82,6 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%2057%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -98,18 +96,19 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-C                        2 hrs               ████████████░░░░░░░░░░░░░   46.75 % 
-C/C++                    1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   33.01 % 
-C/C                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Makefile                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-JSON5                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Python                   1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.05 % 
+C                        1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.28 % 
+C/C++                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+C/C                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JSON5                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-CLion                    4 hrs 16 mins       █████████████████████████   100.00 % 
+CLion                    2 hrs 26 mins       █████████████████░░░░░░░░   66.63 % 
+PyCharm                  1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.37 % 
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       ███████████████████████░░   90.90 % 
-Linux                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Windows                  2 hrs 3 mins        ██████████████░░░░░░░░░░░   56.02 % 
+Linux                    1 hr 36 mins        ███████████░░░░░░░░░░░░░░   43.98 % 
 ```
 
 
