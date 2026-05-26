@@ -98,19 +98,18 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 46 mins        ███████████████░░░░░░░░░░   61.88 % 
-C                        26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-GitIgnore file           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-C/C++                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-C/C                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Python                   1 hr 46 mins        ██████████████████████░░░   87.08 % 
+GitIgnore file           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+JSON5                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+C/C++                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 56 mins        █████████████████░░░░░░░░   67.87 % 
-CLion                    55 mins             ████████░░░░░░░░░░░░░░░░░   32.13 % 
+PyCharm                  1 hr 56 mins        ████████████████████████░   95.52 % 
+CLion                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 💻 Operating System: 
-Linux                    2 hrs 1 min         ██████████████████░░░░░░░   71.05 % 
-Windows                  49 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+Linux                    2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
