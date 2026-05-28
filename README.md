@@ -187,7 +187,6 @@ Linux                    1 hr 56 mins        ███████████�
       <a href="https://github.com/Manomania/ft_ping">
         <img src="ft_ping" alt="ft_ping" width="100"/>
       </a>
-      <br/><sub>WORKING ON</sub>
     </td>
     <td align="center">
       <a href="https://github.com/Manomania/ft_traceroute">
