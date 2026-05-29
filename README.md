@@ -82,31 +82,6 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-🌆 Daytime                954 commits         ████████████░░░░░░░░░░░░░   47.56 % 
-🌃 Evening                652 commits         ████████░░░░░░░░░░░░░░░░░   32.50 % 
-🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   1 hr 46 mins        ███████████████████████░░   91.17 % 
-GitIgnore file           9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-🔥 Editors: 
-PyCharm                  1 hr 56 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
