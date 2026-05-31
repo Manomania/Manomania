@@ -98,14 +98,13 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Python                   37 mins             ██████████████████████░░░   87.98 % 
-GitIgnore file           5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
