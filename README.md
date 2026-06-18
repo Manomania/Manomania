@@ -189,8 +189,8 @@ No Activity Tracked This Week
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Manomania/ft_traceroute">
-        <img src="ft_traceroute" alt="ft_traceroute" width="100"/>
+      <a href="https://github.com/Manomania/Inception-of-Things">
+        <img src="Inception-of-Things" alt="Inception-of-Things" width="100"/>
       </a>
       <br/><sub>WORKING ON</sub>
   </tr>
