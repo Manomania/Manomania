@@ -187,12 +187,15 @@ No Activity Tracked This Week
       <a href="https://github.com/Manomania/ft_ping">
         <img src="ft_ping.png" alt="ft_ping" width="100"/>
       </a>
+      <br/>
+      <br/>
     </td>
     <td align="center">
       <a href="https://github.com/Manomania/InceptionOfThings">
         <img src="IoT.png" alt="Inception-of-Things" width="100"/>
       </a>
       <br/><sub>WORKING ON</sub>
+      <br/>
   </tr>
 </table>
 
