@@ -185,7 +185,7 @@ No Activity Tracked This Week
   <tr>
     <td align="center">
       <a href="https://github.com/Manomania/ft_ping">
-        <img src="ft_ping" alt="ft_ping" width="100"/>
+        <img src="ft_ping.png" alt="ft_ping" width="100"/>
       </a>
     </td>
     <td align="center">
