@@ -189,7 +189,7 @@ No Activity Tracked This Week
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Manomania/Inception-of-Things">
+      <a href="https://github.com/Manomania/InceptionOfThings">
         <img src="Inception-of-Things" alt="Inception-of-Things" width="100"/>
       </a>
       <br/><sub>WORKING ON</sub>
