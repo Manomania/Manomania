@@ -190,7 +190,7 @@ No Activity Tracked This Week
     </td>
     <td align="center">
       <a href="https://github.com/Manomania/InceptionOfThings">
-        <img src="Inception-of-Things" alt="Inception-of-Things" width="100"/>
+        <img src="IoT.png" alt="Inception-of-Things" width="100"/>
       </a>
       <br/><sub>WORKING ON</sub>
   </tr>
