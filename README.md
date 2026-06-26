@@ -66,6 +66,10 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
+### Infrastructure & Orchestration
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
 ### Certifications
 <a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
   <img src="https://github.com/Manomania/Manomania/blob/master/Certification%20in%20C.jpg" height="200" alt="C Certification"/>
