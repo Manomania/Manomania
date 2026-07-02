@@ -194,11 +194,13 @@ Windows                  3 hrs 41 mins       ███████░░░░�
       <a href="https://github.com/Manomania/ft_ping">
         <img src="ft_ping.png" alt="ft_ping" width="100"/>
       </a>
+      <br/><br/><br/><br/>
     </td>
     <td align="center">
       <a href="https://github.com/Manomania/InceptionOfThings">
         <img src="IoT.png" alt="Inception-of-Things" width="100"/>
       </a>
+      <br/><sub>with <a href="https://github.com/cben-bar/">@cben-bar</a><br/>&<br/><a href="https://github.com/ElFlamingoBob/">@efayolle</a></sub>
   </tr>
 </table>
 
