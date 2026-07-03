@@ -86,14 +86,14 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-775%20hrs%2018%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-🌆 Daytime                995 commits         ████████████░░░░░░░░░░░░░   48.49 % 
-🌃 Evening                657 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌞 Morning                378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+🌆 Daytime                996 commits         ████████████░░░░░░░░░░░░░   48.51 % 
+🌃 Evening                657 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
 🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 ```
 
@@ -102,16 +102,16 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 46 mins      █████████████████████████   98.05 % 
-Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    15 hrs 33 mins      ████████████████████████░   97.18 % 
+Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 2 mins       █████████████████████████   100.00 % 
+Chrome                   16 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 20 mins       ██████████████████░░░░░░░   71.67 % 
-Windows                  3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+Linux                    9 hrs 20 mins       ███████████████░░░░░░░░░░   58.38 % 
+Windows                  6 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
 ```
 
 
