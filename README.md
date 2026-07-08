@@ -202,6 +202,11 @@ Windows                  6 hrs 49 mins       █████████░░�
         <img src="IoT.png" alt="Inception-of-Things" width="100"/>
       </a>
       <br/><sub>with <a href="https://github.com/cben-bar/">@cben-bar</a><br/>&<br/><a href="https://github.com/ElFlamingoBob/">@efayolle</a></sub>
+    <td align="center">
+      <a href="https://github.com/Manomania/Cloud-1">
+        <img src="cloud1.png" alt="Cloud-1" width="100"/>
+      </a>
+      <br/><sub>with <a href="https://github.com/faoriol/">@faoriol</a>
   </tr>
 </table>
 
