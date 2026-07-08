@@ -131,7 +131,8 @@ Windows                  6 hrs 49 mins       █████████░░�
     <td align="center">
       <a href="https://github.com/Manomania/philosopher">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/philosopherse.png" alt="philosophers" width="100"/>
-      </a><br/><br/>
+      </a>
+      <br/><br/>
     </td>
     <td align="center">
       <a href="https://github.com/Manomania/minishell">
@@ -142,7 +143,8 @@ Windows                  6 hrs 49 mins       █████████░░�
     <td align="center">
       <a href="https://github.com/Manomania/NetPractice">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/netpracticee.png" alt="NetPractice" width="100"/>
-      </a><br/><br/>
+      </a>
+      <br/><br/>
     </td>
   </tr>
   <tr>
@@ -169,8 +171,8 @@ Windows                  6 hrs 49 mins       █████████░░�
     <td align="center">
       <a href="https://github.com/Manomania/CPP_05-09">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppm.png" alt="CPP 05-09" width="100"/>
-      </a><br/><br/>
-      <br/><sub>Modules 05-09</sub>
+      </a>
+      <br/><br/><sub>Modules 05-09</sub><br/><br/>
     <td align="center">
       <a href="https://github.com/Manomania/ft_transcendance">
         <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencem.png" alt="ft_transcendence" width="100"/>
@@ -206,7 +208,7 @@ Windows                  6 hrs 49 mins       █████████░░�
       <a href="https://github.com/Manomania/Cloud-1">
         <img src="cloud1.png" alt="Cloud-1" width="100"/>
       </a>
-      <br/><sub>with <a href="https://github.com/faoriol/">@faoriol</a>
+      <br/><br/><sub>with <a href="https://github.com/faoriol/">@faoriol</a><br/><br/>
   </tr>
 </table>
 
