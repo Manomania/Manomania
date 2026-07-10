@@ -102,17 +102,17 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 44 mins      ████████████████████████░   94.45 % 
-C                        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    14 hrs              ████████████████████████░   94.69 % 
+C                        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 43 mins      █████████████████████████   100.00 % 
+Chrome                   14 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 31 mins      ███████████████░░░░░░░░░░   59.38 % 
-Windows                  7 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.62 % 
+Linux                    10 hrs 31 mins      ██████████████████░░░░░░░   71.09 % 
+Windows                  4 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.91 % 
 ```
 
 
