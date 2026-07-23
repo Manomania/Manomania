@@ -86,15 +86,15 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%2031%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                382 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-🌆 Daytime                1016 commits        ████████████░░░░░░░░░░░░░   48.47 % 
-🌃 Evening                674 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+🌞 Morning                382 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+🌆 Daytime                1017 commits        ████████████░░░░░░░░░░░░░   48.50 % 
+🌃 Evening                674 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 
@@ -102,15 +102,15 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 58 mins      █████████████████████████   98.22 % 
-C                        26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Other                    23 hrs 11 mins      █████████████████████████   98.88 % 
+C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 24 mins      █████████████████████████   100.00 % 
+Chrome                   23 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 hrs 50 mins      █████████████░░░░░░░░░░░░   52.65 % 
-Linux                    11 hrs 33 mins      ████████████░░░░░░░░░░░░░   47.35 % 
+Linux                    14 hrs 44 mins      ████████████████░░░░░░░░░   62.82 % 
+Windows                  8 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
 ```
 
 
