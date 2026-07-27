@@ -86,7 +86,7 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2019%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -102,16 +102,16 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 1 min        █████████████████████████   98.83 % 
-C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other                    21 hrs 57 mins      █████████████████████████   98.79 % 
+C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Chrome                   23 hrs 17 mins      █████████████████████████   100.00 % 
+Chrome                   22 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 44 mins      ████████████████░░░░░░░░░   63.25 % 
-Windows                  8 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
+Linux                    14 hrs 44 mins      █████████████████░░░░░░░░   66.30 % 
+Windows                  7 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.70 % 
 ```
 
 
