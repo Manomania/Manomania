@@ -91,5 +91,5 @@ Certified in C and in C++ on
 ## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/maxime-martinez-643300254/) or
-`VOTRE.EMAIL@example.com`. Happy to talk about infrastructure, homelabs, or why
+`maxime.martinez96@hotmail.fr`. Happy to talk about infrastructure, homelabs, or why
 your Docker network cannot resolve that hostname.
