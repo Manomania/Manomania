@@ -1,39 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 660" width="560" height="660" role="img" aria-label="Stack: Docker, Kubernetes, Argo CD, Nginx, Ansible, Vagrant, Bash, GitHub Actions, Prometheus, Grafana, Google Cloud, PostgreSQL, Linux, C, C++, Python, TypeScript">
-  <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22D3EE"/>
-      <stop offset="1" stop-color="#6366F1"/>
-    </linearGradient>
-    <style>
-      .h { font: 400 13px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #22D3EE; letter-spacing: 3px; }
-      .g { font: 400 12px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #64748B; letter-spacing: 1.6px; }
-      .i { font: 400 17.5px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #E2E8F0; }
-    </style>
-  </defs>
-
-  <rect width="560" height="660" rx="16" fill="#0B1120"/>
-  <rect x="0.5" y="0.5" width="559" height="659" rx="15.5" fill="none" stroke="#1E293B"/>
-
-  <text class="h" x="40" y="58">STACK</text>
-  <rect x="40" y="74" width="44" height="3" rx="1.5" fill="url(#accent)"/>
-
-  <circle cx="45" cy="135" r="3.5" fill="#22D3EE"/>
-  <text class="g" x="60" y="140">CONTAINERS AND ORCHESTRATION</text>
-  <text class="i" x="40" y="170">Docker &#183; Kubernetes &#183; Argo CD &#183; Nginx</text>
-
-  <circle cx="45" cy="241" r="3.5" fill="#38BDF8"/>
-  <text class="g" x="60" y="246">AUTOMATION AND IAC</text>
-  <text class="i" x="40" y="276">Ansible &#183; Vagrant &#183; Bash &#183; Make</text>
-
-  <circle cx="45" cy="347" r="3.5" fill="#60A5FA"/>
-  <text class="g" x="60" y="352">CI AND OBSERVABILITY</text>
-  <text class="i" x="40" y="382">GitHub Actions &#183; Prometheus &#183; Grafana</text>
-
-  <circle cx="45" cy="453" r="3.5" fill="#818CF8"/>
-  <text class="g" x="60" y="458">CLOUD AND DATA</text>
-  <text class="i" x="40" y="488">Google Cloud &#183; PostgreSQL &#183; MariaDB</text>
-
-  <circle cx="45" cy="559" r="3.5" fill="#6366F1"/>
-  <text class="g" x="60" y="564">SYSTEMS AND LANGUAGES</text>
-  <text class="i" x="40" y="594">Linux &#183; C &#183; C++ &#183; Python &#183; TypeScript</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 588" width="560" height="588" role="img" aria-label="Stack: Docker, Kubernetes, Argo CD, Nginx, Ansible, Vagrant, Bash, Make, GitHub Actions, Prometheus, Grafana, Google Cloud, PostgreSQL, MariaDB, Linux, C, C++, Python, TypeScript">
+<rect width="560" height="588" rx="3" fill="#171614"/>
+<rect x="0.5" y="0.5" width="559" height="587" rx="2.5" fill="none" stroke="#2E2C28"/>
+<text x="40" y="58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#D2703A">stack</text>
+<text x="40" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8A857B">containers / orchestration</text><text x="40" y="148" font-family='"Helvetica Neue", Helvetica, Arial, sans-serif' font-size="17.5" fill="#EDE9E0">Docker · Kubernetes · Argo CD · Nginx</text><line x1="40" y1="172" x2="520" y2="172" stroke="#2E2C28" stroke-width="1"/><text x="40" y="218" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8A857B">automation / iac</text><text x="40" y="248" font-family='"Helvetica Neue", Helvetica, Arial, sans-serif' font-size="17.5" fill="#EDE9E0">Ansible · Vagrant · Bash · Make</text><line x1="40" y1="272" x2="520" y2="272" stroke="#2E2C28" stroke-width="1"/><text x="40" y="318" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8A857B">ci / observability</text><text x="40" y="348" font-family='"Helvetica Neue", Helvetica, Arial, sans-serif' font-size="17.5" fill="#EDE9E0">GitHub Actions · Prometheus · Grafana</text><line x1="40" y1="372" x2="520" y2="372" stroke="#2E2C28" stroke-width="1"/><text x="40" y="418" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8A857B">cloud / data</text><text x="40" y="448" font-family='"Helvetica Neue", Helvetica, Arial, sans-serif' font-size="17.5" fill="#EDE9E0">Google Cloud · PostgreSQL · MariaDB</text><line x1="40" y1="472" x2="520" y2="472" stroke="#2E2C28" stroke-width="1"/><text x="40" y="518" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#8A857B">systems / languages</text><text x="40" y="548" font-family='"Helvetica Neue", Helvetica, Arial, sans-serif' font-size="17.5" fill="#EDE9E0">Linux · C · C++ · Python · TypeScript</text>
 </svg>
