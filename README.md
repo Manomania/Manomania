@@ -9,7 +9,7 @@ something is broken, people are waiting, go find out why.
 Based in Lyon, open to DevOps and platform work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D2703A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-martinez-643300254/)
-[![Email](https://img.shields.io/badge/Email-D2703A?style=flat-square&logo=maildotru&logoColor=white)](mailto:VOTRE.EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-D2703A?style=flat-square&logo=maildotru&logoColor=white)](mailto:maxime.martinez96@hotmail.fr)
 [![CodinGame](https://img.shields.io/badge/CodinGame-D2703A?style=flat-square&logo=codingame&logoColor=white)](https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935)
 
 ### [ft_transcendence](https://github.com/Manomania/ft_transcendance)
