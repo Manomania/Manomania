@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Maxime Martinez, DevOps and Infrastructure, 42 Lyon">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="stack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="0.6" stop-color="#6366F1" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .n { font: 700 58px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #F8FAFC; }
+      .s { font: 400 25px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #94A3B8; letter-spacing: 0.4px; }
+      .t { font: 400 15px "Segoe UI", Roboto, Helvetica, Arial, sans-serif; fill: #64748B; letter-spacing: 1.6px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="#0B1120"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="15.5" fill="none" stroke="#1E293B"/>
+  <ellipse cx="900" cy="155" rx="340" ry="210" fill="url(#halo)"/>
+
+  <text class="n" x="76" y="125">Maxime Martinez</text>
+  <rect x="78" y="149" width="88" height="5" rx="2.5" fill="url(#accent)"/>
+  <text class="s" x="76" y="193">DevOps and Infrastructure</text>
+  <text class="t" x="76" y="225">42 LYON &#183; RNCP7 ARCHITECTE EN TECHNOLOGIE DU NUM&#201;RIQUE</text>
+
+  <g stroke="url(#stack)" fill="none">
+    <g stroke-opacity="0.4" stroke-width="1.5">
+      <line x1="715" y1="80" x2="715" y2="230"/>
+      <line x1="1085" y1="80" x2="1085" y2="230"/>
+      <line x1="900" y1="80" x2="900" y2="230" stroke-dasharray="3 6"/>
+    </g>
+
+    <g stroke-opacity="0.16" stroke-width="1">
+      <line x1="776.7" y1="96.7" x2="961.7" y2="46.7"/>
+      <line x1="838.3" y1="113.3" x2="1023.3" y2="63.3"/>
+      <line x1="776.7" y1="63.3" x2="961.7" y2="113.3"/>
+      <line x1="838.3" y1="46.7" x2="1023.3" y2="96.7"/>
+
+      <line x1="776.7" y1="171.7" x2="961.7" y2="121.7"/>
+      <line x1="838.3" y1="188.3" x2="1023.3" y2="138.3"/>
+      <line x1="776.7" y1="138.3" x2="961.7" y2="188.3"/>
+      <line x1="838.3" y1="121.7" x2="1023.3" y2="171.7"/>
+
+      <line x1="776.7" y1="246.7" x2="961.7" y2="196.7"/>
+      <line x1="838.3" y1="263.3" x2="1023.3" y2="213.3"/>
+      <line x1="776.7" y1="213.3" x2="961.7" y2="263.3"/>
+      <line x1="838.3" y1="196.7" x2="1023.3" y2="246.7"/>
+    </g>
+
+    <g stroke-width="1.6" fill="#22D3EE" fill-opacity="0.05">
+      <path d="M900 30 L1085 80 L900 130 L715 80 Z"/>
+      <path d="M900 105 L1085 155 L900 205 L715 155 Z"/>
+      <path d="M900 180 L1085 230 L900 280 L715 230 Z"/>
+    </g>
+  </g>
+
+  <g stroke="none">
+    <circle cx="963" cy="66" r="10" fill="#22D3EE" fill-opacity="0.16"/>
+    <circle cx="963" cy="66" r="3.6" fill="#67E8F9"/>
+    <circle cx="822" cy="168" r="10" fill="#38BDF8" fill-opacity="0.16"/>
+    <circle cx="822" cy="168" r="3.6" fill="#7DD3FC"/>
+    <circle cx="988" cy="146" r="8" fill="#818CF8" fill-opacity="0.16"/>
+    <circle cx="988" cy="146" r="3" fill="#A5B4FC"/>
+    <circle cx="900" cy="243" r="12" fill="#6366F1" fill-opacity="0.18"/>
+    <circle cx="900" cy="243" r="4.2" fill="#A5B4FC"/>
+  </g>
+</svg>
