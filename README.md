@@ -1,234 +1,95 @@
-<div align="center">
+<img src="assets/banner.svg" alt="Maxime Martinez, devops and infrastructure, 42 Lyon" width="100%">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C44569,100:6C5CE7&height=200&section=header&text=Maxime%20Martinez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=42%20Lyon%20Student&descSize=18&descAlignY=55"/>
+<img align="right" width="38%" src="assets/card-stack.svg" alt="Stack: Docker, Kubernetes, Argo CD, Nginx, Ansible, Vagrant, Bash, Make, GitHub Actions, Prometheus, Grafana, Google Cloud, PostgreSQL, MariaDB, Linux, C, C++, Python, TypeScript">
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C44569&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+about+DevOps+%26+Automation;Containerizing+the+world+with+Docker;Monitoring%2C+scaling+%26+always+deploying" alt="Typing SVG" />
-</a>
+I spent five years repairing cash handling machines on customer sites before I
+started at 42. Infrastructure turned out to be the same job with better tooling:
+something is broken, people are waiting, go find out why.
 
-<br/>
+Based in Lyon, open to DevOps and platform work.
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-martinez-643300254/)
-[![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=black)](https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935)
-[![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D2703A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-martinez-643300254/)
+[![Email](https://img.shields.io/badge/Email-D2703A?style=flat-square&logo=maildotru&logoColor=white)](mailto:VOTRE.EMAIL@example.com)
+[![CodinGame](https://img.shields.io/badge/CodinGame-D2703A?style=flat-square&logo=codingame&logoColor=white)](https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+### [ft_transcendence](https://github.com/Manomania/ft_transcendance)
 
-##  About Me
+Multiplayer arcade platform, five people, six months. I was the one who had to
+make the whole thing actually run.
 
-```yaml
-name: Maxime Martinez
-location: Lyon, France
-education: 42 Lyon
-current_focus: ["Final project: Transcendance"]
-interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimization]
-```
+Thirteen services, four Docker networks, an Nginx reverse proxy in front, CI on
+GitHub Actions, Prometheus and Grafana with a Blackbox Exporter for the probes,
+one Postgres schema per service, secrets through Docker secrets. Most of my time
+went into the network topology: the gateway has to reach everything, and nothing
+else is allowed to.
 
-###  What drives me
+### [Cloud-1](https://github.com/Manomania/Cloud-1)
 
--  Building **reliable, automated** and **scalable** infrastructure
--  Deep understanding over quick solutions
--  Exploring **containerization** and **microservices architecture**
--  Learning **Kubernetes** & orchestration from the ground up
--  **Monitoring & observability** with Prometheus, Grafana & learning ELK
+Nginx, MariaDB, php8.2-fpm and phpMyAdmin, provisioned from nothing on a Debian
+VM in Google Cloud by Ansible roles. Destroy the instance, run the playbook,
+the site is back.
 
-<br clear="right"/>
+Getting there was less elegant than it sounds. WordPress stores its own URL in
+the database, GCP hands out a new external IP on every rebuild, and the two facts
+do not get along.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+### [Inception of Things](https://github.com/Manomania/InceptionOfThings)
 
-##  Tech Stack
+Two node K3s cluster on Vagrant, Ingress routing, and Argo CD reconciling the
+cluster against a Git repository. Push to main, the cluster follows.
 
-<div align="center">
+The three days I lost on this had nothing to do with Kubernetes: a stray K3s
+instance still running on the host was stealing routes from the VMs underneath.
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+<br clear="right">
 
-### Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-<!--![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) --> 
+<img src="assets/divider.svg" alt="" width="100%">
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img align="right" width="38%" src="assets/card-timeline.svg" alt="Timeline: 2019 field service technician at PayComplete, 2024 42 Lyon, 2026 post cursus infrastructure work">
 
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+## Before this
 
-### Infrastructure & Orchestration
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+Level 2 field maintenance technician at PayComplete, five years, banking
+automation hardware across southeast France. On call, on site, a customer
+watching, and a machine that had to work again before the branch opened.
 
-### Certifications
-<a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
-  <img src="https://github.com/Manomania/Manomania/blob/master/Certification%20in%20C.jpg" height="200" alt="C Certification"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935">
-  <img src="https://github.com/Manomania/Manomania/blob/master/Certification%20in%20cpp.jpg" height="200" alt="C++ Certification"/>
-</a>
+Nobody there cared which framework was fashionable. That is roughly my position
+on tooling now.
 
-</div>
+I still write low level code when something bothers me:
+[ft_ping](https://github.com/Manomania/ft_ping) reimplements ping in C over raw
+ICMP sockets, [ft_irc](https://github.com/Manomania/ft_irc) is an IRC server in
+C++ following RFC 1459.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<br clear="right">
 
-## ⏱️ Weekly Coding Stats
+<img src="assets/divider.svg" alt="" width="100%">
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%207%20mins-blue?style=flat)
+<details>
+<summary><b>42 cursus, full project list</b></summary>
 
-**I'm an Early 🐤** 
+<br>
 
-```text
-🌞 Morning                382 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-🌆 Daytime                1017 commits        ████████████░░░░░░░░░░░░░   48.50 % 
-🌃 Evening                674 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
+| Project | What it taught me |
+|---|---|
+| [minishell](https://github.com/Manomania/minishell) | Process control, forks, pipes, file descriptors |
+| [philosophers](https://github.com/Manomania/philosopher) | Threads, mutexes, deadlock and starvation |
+| [NetPractice](https://github.com/Manomania/NetPractice) | Subnetting, routing tables, network troubleshooting |
+| [Inception](https://github.com/Manomania/inception) | First contact with Docker, one service per container |
+| [Cub3D](https://github.com/Manomania/Cub3D) | Raycasting engine in C |
+| [CPP 00 to 09](https://github.com/Manomania/CPP) | OOP, templates, STL, exceptions |
+| [ft_irc](https://github.com/Manomania/ft_irc) | TCP server, RFC 1459, non blocking I/O |
+| [ft_transcendence](https://github.com/Manomania/ft_transcendance) | Microservices, CI, monitoring, team lead |
 
+Certified in C and in C++ on
+[CodinGame](https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935).
 
-📊 **This Week I Spent My Time On** 
+</details>
 
-```text
-💬 Programming Languages: 
-Other                    12 hrs 57 mins      █████████████████████████   99.14 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-RGBDS Assembly           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Assembly                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+<img src="assets/divider.svg" alt="" width="100%">
 
-🔥 Editors: 
-Chrome                   12 hrs 59 mins      █████████████████████████   99.41 % 
-CLion                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+## Get in touch
 
-💻 Operating System: 
-Windows                  9 hrs 53 mins       ███████████████████░░░░░░   75.67 % 
-Linux                    3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-##  42 Cursus - Advanced Projects & PostCC
-
-<div align="center">
-
-### Advanced Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Manomania/philosopher">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/philosopherse.png" alt="philosophers" width="100"/>
-      </a>
-      <br/><br/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/minishell">
-        <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/minishelle.png" alt="minishell" width="100"/>
-      </a>
-      <br/><sub>with <a href="https://github.com/airone01/">@elagouch</a></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/NetPractice">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/netpracticee.png" alt="NetPractice" width="100"/>
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/CPP">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppm.png" alt="CPP 00-04" width="100"/>
-      </a>
-      <br/><sub>Modules 00-04</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/inception">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptione.png" alt="Inception" width="100"/>
-      </a>
-        <br/><br/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/Cub3D">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3dm.png" alt="cub3D" width="100"/>
-      </a>
-      <br/><sub>with <a href="https://github.com/airone01/">@elagouch</a></sub>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Manomania/CPP_05-09">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cppm.png" alt="CPP 05-09" width="100"/>
-      </a>
-      <br/><br/><sub>Modules 05-09</sub><br/><br/>
-    <td align="center">
-      <a href="https://github.com/Manomania/ft_transcendance">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/ft_transcendencem.png" alt="ft_transcendence" width="100"/>
-      </a>
-         <br/><sub>with <a href="https://github.com/Sunny-444/">@nahamida</a><br><a href="https://github.com/faoriol/">@faoriol</a>, <a href="https://github.com/Mazakov-d/">@dmazari</a><br>& <a href="https://github.com/POLEC4T/">@mniemaz</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/ft_irc">
-        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_irce.png" alt="ft_irc" width="100"/>
-      </a>
-      <br/><sub>with <a href="https://github.com/airone01/">@elagouch</a><br/>&<br/><a href="https://github.com/Sunny-444/">@nahamida</a></sub>
-    </td>
-    </td>
-  </tr>
-</table>
-
-### Post CC
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Manomania/ft_ping">
-        <img src="ft_ping.png" alt="ft_ping" width="100"/>
-      </a>
-      <br/><br/><br/><br/>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Manomania/InceptionOfThings">
-        <img src="IoT.png" alt="Inception-of-Things" width="100"/>
-      </a>
-      <br/><sub>with <a href="https://github.com/cben-bar/">@cben-bar</a><br/>&<br/><a href="https://github.com/ElFlamingoBob/">@efayolle</a></sub>
-    <td align="center">
-      <a href="https://github.com/Manomania/Cloud-1">
-        <img src="cloud1.png" alt="Cloud-1" width="100"/>
-      </a>
-      <br/><br/><sub>with <a href="https://github.com/faoriol/">@faoriol</a><br/><br/>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
-<div align="center">
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:C44569,100:FF6B9D&height=120&section=footer"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manomania&color=C44569&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/maxime-martinez-643300254/) or
+`VOTRE.EMAIL@example.com`. Happy to talk about infrastructure, homelabs, or why
+your Docker network cannot resolve that hostname.
