@@ -102,19 +102,19 @@ interests: ["DevOps", "Cybersecurity", "Systems Programming", "Algorithm Optimiz
 
 ```text
 💬 Programming Languages: 
-Other                    15 hrs 14 mins      ████████████████████████░   97.88 % 
-C                        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-RGBDS Assembly           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Assembly                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    12 hrs 57 mins      █████████████████████████   99.14 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+RGBDS Assembly           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Assembly                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 29 mins      █████████████████████████   99.51 % 
-CLion                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Chrome                   12 hrs 59 mins      █████████████████████████   99.41 % 
+CLion                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  8 hrs 55 mins       ██████████████░░░░░░░░░░░   57.33 % 
-Linux                    6 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.67 % 
+Windows                  9 hrs 53 mins       ███████████████████░░░░░░   75.67 % 
+Linux                    3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
 ```
 
 🤖 **AI Coding This Week** 
