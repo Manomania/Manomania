@@ -12,6 +12,8 @@ Based in Lyon, open to DevOps and platform work.
 [![Email](https://img.shields.io/badge/Email-1F5E48?style=flat-square&logo=maildotru&logoColor=CBC135)](mailto:maxime.martinez96@hotmail.fr)
 [![CodinGame](https://img.shields.io/badge/CodinGame-1F5E48?style=flat-square&logo=codingame&logoColor=CBC135)](https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935)
 
+## PROJECTS
+
 ### [ft_transcendence](https://github.com/Manomania/ft_transcendance)
 
 Multiplayer arcade platform, five of us, with [@nahamida](https://github.com/Sunny-444/), [@faoriol](https://github.com/faoriol/),
@@ -68,13 +70,14 @@ None of it was fashionable and it is still the best training I have had for this
 | [minishell](https://github.com/Manomania/minishell) | Process control, forks, pipes, file descriptors | [@elagouch](https://github.com/airone01/) |
 | [philosophers](https://github.com/Manomania/philosopher) | Threads, mutexes, deadlock and starvation | |
 | [NetPractice](https://github.com/Manomania/NetPractice) | Subnetting, routing tables, network troubleshooting | |
-| [Inception](https://github.com/Manomania/inception) | First contact with Docker, one service per container | |
 | [Cub3D](https://github.com/Manomania/Cub3D) | Raycasting engine in C | [@elagouch](https://github.com/airone01/) |
 | [CPP 00 to 04](https://github.com/Manomania/CPP) | OOP, orthodox canonical form, polymorphism | |
 | [CPP 05 to 09](https://github.com/Manomania/CPP_05-09) | Exceptions, templates, STL containers | |
+| [Inception](https://github.com/Manomania/inception) | First contact with Docker, one service per container | |
 | [ft_irc](https://github.com/Manomania/ft_irc) | TCP server, RFC 1459, non blocking I/O | [@elagouch](https://github.com/airone01/), [@nahamida](https://github.com/Sunny-444/) |
-| [ft_ping](https://github.com/Manomania/ft_ping) | Raw ICMP sockets, signal handling, flood mode | |
 | [ft_transcendence](https://github.com/Manomania/ft_transcendance) | Microservices, CI, monitoring, team lead | [@nahamida](https://github.com/Sunny-444/), [@faoriol](https://github.com/faoriol/), [@dmazari](https://github.com/Mazakov-d/), [@mniemaz](https://github.com/POLEC4T/) |
+| [ft_ping](https://github.com/Manomania/ft_ping) | Raw ICMP sockets, signal handling, flood mode | |
+| [ft_ls](https://github.com/Manomania/ft_ls) | WORKING ON |  |
 
 Certified in C and in C++ on
 [CodinGame](https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935).
