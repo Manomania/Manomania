@@ -77,7 +77,7 @@ None of it was fashionable and it is still the best training I have had for this
 | [ft_irc](https://github.com/Manomania/ft_irc) | TCP server, RFC 1459, non blocking I/O | [@elagouch](https://github.com/airone01/), [@nahamida](https://github.com/Sunny-444/) |
 | [ft_transcendence](https://github.com/Manomania/ft_transcendance) | Microservices, CI, monitoring, team lead | [@nahamida](https://github.com/Sunny-444/), [@faoriol](https://github.com/faoriol/), [@dmazari](https://github.com/Mazakov-d/), [@mniemaz](https://github.com/POLEC4T/) |
 | [ft_ping](https://github.com/Manomania/ft_ping) | Raw ICMP sockets, signal handling, flood mode | |
-| [ft_ls](https://github.com/Manomania/ft_ls) | WORKING ON |  |
+| [ft_ls](https://github.com/Manomania/ft_ls) | Directory traversal, stat calls, permission bits, dynamic column layout |  |
 
 Certified in C and in C++ on
 [CodinGame](https://www.codingame.com/profile/85b780e0c973cc20cb7b3113734c81391256935).
